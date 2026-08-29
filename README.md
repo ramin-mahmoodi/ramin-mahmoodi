@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=Hi%2C%20I'm%20Ramin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Network%20Engineering%20%7C%20High-Performance%20Desktop%20%26%20Full-Stack&descFontSize=16&descAlignY=62&descAlign=50" width="100%"/>
+<!-- Header Banner (Fixed & Clean XML) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=Hi%2C%20I'm%20Ramin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Network%20Engineering%20%7C%20High-Performance%20Desktop%20and%20Full-Stack&descFontSize=16&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/ramin-mahmoodi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Passionate+Software+%26+Systems+Developer;Specialized+in+Network+%26+Proxy+Protocols;Building+High-Performance+C%2B%2B+%26+Go+Tools;Exploring+Thermodynamics+%26+Scientific+Simulations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Passionate+Software+%26+Systems+Developer;Specialized+in+Network+%26+Proxy+Protocols;Building+High-Performance+C%2B%2B+%26+Go+Tools;Exploring+Thermodynamics+%26+Simulations" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -88,10 +88,10 @@ Software engineer focused on building **high-performance desktop applications**,
   <table border="0">
     <tr>
       <td>
-        <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramin-mahmoodi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ramin's GitHub Stats" />
+        <img height="165" src="https://github-stats-extended.vercel.app/api?username=ramin-mahmoodi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ramin's GitHub Stats" />
       </td>
       <td>
-        <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramin-mahmoodi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+        <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramin-mahmoodi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
       </td>
     </tr>
   </table>
