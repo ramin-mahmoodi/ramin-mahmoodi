@@ -2,8 +2,6 @@
 
 <img src="profile-assets/hero-light.svg" width="100%" alt="Ramin Mahmoodi · I build what I need.">
 
-<a href="https://github.com/ramin-mahmoodi?tab=repositories">Browse repositories</a>
-
 <h2><img src="profile-assets/h-popular-light.svg" width="100%" alt="Popular repositories"></h2>
 
 <a href="https://github.com/ramin-mahmoodi/IranTUN"><img src="profile-assets/mini-IranTUN-light.svg" width="49%" alt="IranTUN — Route VLESS WebSocket traffic through multiple shared hosts. (3 ★)"></a>&nbsp;<a href="https://github.com/ramin-mahmoodi/Hemera"><img src="profile-assets/mini-Hemera-light.svg" width="49%" alt="Hemera — A native Windows desktop client for the Aether network engine. (2 ★)"></a>
